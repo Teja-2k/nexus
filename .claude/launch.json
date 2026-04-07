@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nexus-web",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["next", "dev", "--turbopack", "--port", "3000"],
+      "port": 3000,
+      "cwd": "C:\\Users\\saite\\Documents\\nexus\\apps\\web"
+    }
+  ]
+}
